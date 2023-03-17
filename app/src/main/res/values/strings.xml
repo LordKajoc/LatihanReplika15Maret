@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">T5Latihan15Maret</string>
+    <string name="tv_rupiah">Gratis Ongkir dan Voucher</string>
+    <string name="tv_handphone">Pulsa, Tagihan, dan Tiket</string>
+    <string name="tv_mall">Shopee Mall</string>
+    <string name="tv_location">Sekitarmu</string>
+    <string name="tv_masjid">Barokah</string>
+    <string name="tv_games">Games</string>
+    <string name="tv_food">ShoppeFood</string>
+    <string name="tv_local">Pilih Lokal</string>
+    <string name="tv_wallet">Spaylater</string>
+    <string name="tv_grid">Lihat Semua</string>
+</resources>
